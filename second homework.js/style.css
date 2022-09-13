@@ -1,0 +1,38 @@
+section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 100px;
+}
+.input-block{
+    background-color:gray;
+    border-width:0px;
+    border:none;
+    outline:none;
+    border-radius: 30px;
+}
+.add-btn{
+    border-radius: 30px;
+    color: green;
+    font-weight: bold;
+    border-width:0px;
+    border:none;
+    outline:none;
+    
+}
+.clearall{
+    border-radius: 30px;
+    color: red;
+    font-weight: bold;
+    border-width:0px;
+    border:none;
+    outline:none;
+}
+.style-button{
+    background-color: brown;
+}
+.fa-square-minus{
+    color: red;
+    margin-left: 10px;
+}
